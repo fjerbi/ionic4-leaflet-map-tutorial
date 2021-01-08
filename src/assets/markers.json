@@ -1,0 +1,52 @@
+{
+    "markers": [
+        {
+            "title": "Covid Case in Tunis",
+            "isUrgent": true,
+            "image":"https://www.tunisienumerique.com/wp-content/uploads/2020/01/bourguiba.jpg",
+            "time":"01-01-2021 23:45:00",
+            "longitude": 10.1815,
+            "latitude": 36.8065
+        },
+        {
+            "title": "Covid case in Bizerte",
+            "isUrgent": false,
+            "image":"https://www.mifuguemiraison.com/wp-content/uploads/2019/11/bizerte-port-medina-tunisie-1200x812.jpg",
+            "time":"02-01-2021 23:45:00",
+            "longitude": 9.8642,
+            "latitude": 37.2768
+        },
+        {
+            "title": "Covid case in Monastir",
+            "isUrgent": true,
+            "image":"https://www.aviontourism.com/images/1920-900-fix/add4f855-39a8-4ce8-9f5b-d57b7fbae786",
+            "time":"03-01-2021 23:45:00",
+            "longitude": 10.8113,
+            "latitude": 35.7643
+        },
+        {
+            "title": "Covid case in Gabes",
+            "isUrgent": false,
+            "image":"https://lh3.googleusercontent.com/proxy/dunzapqQJSaXyF_cLnj1Nutcn9rqUlsTo4_d0slhF4lJo1lNInZxf4c775mqZKm8vj5rvHclCQbm3jOV7gkcIZfSB_KrNaPLsN2kxqTUMbNLtw",
+            "time":"04-01-2021 23:45:00",
+            "longitude": 10.0975,
+            "latitude": 33.8881
+        },
+        {
+            "title": "Covid case in Béja",
+            "isUrgent": true,
+            "image":"https://allthecities.com/city/get-full-image?id=1420803",
+            "time":"05-01-2021 23:45:00",
+            "longitude": 9.1844,
+            "latitude": 36.7333
+        },
+        {
+            "title": "Covid case in Djerba",
+            "isUrgent": false,
+            "image":"https://www.tunisiepromo.com/wp-content/uploads/2017/04/djerba-midoun-1024x546.jpg",
+            "time":"07-01-2021 23:45:00",
+            "longitude": 10.8451,
+            "latitude": 33.8076
+        }
+    ]
+}
